@@ -13,6 +13,6 @@ This is a class in difflib which compare the sequence of characters or elements 
 - Pass required arguments in SequenceMatcher
 - Print the O/P in form of %
 ## Sample Output:
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/Aditya8821/Plagiarism-Checker/blob/main/Images/Demo%20Output.png"></p>
 
 Feedbacks Would Be Welcomed🙌
